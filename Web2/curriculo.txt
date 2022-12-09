@@ -1,0 +1,140 @@
+<html>
+    <head>
+                    <title>Currículo</title>
+    </head>
+
+   <body>
+ <form action="curriculo.php" class="form-horizontal" method="POST">
+<fieldset>
+  <b><legend>Dados Pessoais</legend><br></b>
+
+   <div class="form-group">
+<label class="col-md-4 control-label" for="textemail">Nome completo:</label>
+    <div class="col-md-4">
+<input id="textemail" name="textemail" type="text" placeholder="digite aqui..." class="form-control input">
+    </div>
+  </div>
+  <form>
+    <p>Sexo</p>
+    <input type="radio" name="Sexo" >feminino <br>
+    <input type="radio" name="Sexo" >masculino <br>
+    <br>
+</form>
+<div class="form-group">
+<label class="col-md-4 control-label" for="date">Data de nascimento: </label>
+    <div class="col-md-4">
+<input id="date" name="date" type="date" placeholder="00/00/0000" class="form-control input">
+    </div>
+  </div><br>
+
+  <div class="form-group">
+<label class="col-md-4 control-label" for="endereco">Endereço: </label>
+    <div class="col-md-4">
+<textarea>digite aqui...</textarea>
+    </div>
+  </div><br>
+
+  <div class="form-group">
+<label class="col-md-4 control-label" for="dependentes">Dependentes: </label>
+    <div class="col-md-4">
+<input id="dependentes" name="Dependentes" type="number"  class="form-control input">
+    </div>
+  </div><br>
+
+  <div class="form-group">
+<label class="col-md-4 control-label" for="filiacao">Filiação: </label>
+    <div class="col-md-4">
+<input id="Filiacao" name="filiacao" type="text" placeholder="digite aqui sua filiação" class="form-control input">
+    </div>
+  </div>
+  </br>
+ <div class="form-group">
+<b><label class="col-md-4 control-label" for="escolaridade">Escolaridade</label></b><br>
+ <label class="col-md-4 control-label" for="text">Pós-Graduação:</label>
+    <div class="col-md-4">
+<input id="text" name="text" type="text" placeholder="digite se fez ou não..." class="form-control input">
+    </div>
+  </div><br>
+
+  <label class="col-md-4 control-label" for="curso">Graduação:</label>
+    <div class="col-md-4">
+<input id="curso" name="curso" type="text" placeholder="digite se fez ou não..." class="form-control input">
+    </div>
+  </div><br>
+
+  <label class="col-md-4 control-label" for="curso">Ensino Médio:</label>
+    <div class="col-md-4">
+<input id="curso" name="curso" type="text" placeholder="digite se fez ou não..." class="form-control input">
+    </div>
+  </div><br>
+
+  <label class="col-md-4 control-label" for="curso">Ensino Fundamental:</label>
+    <div class="col-md-4">
+<input id="curso" name="curso" type="text" placeholder="digite se fez ou não..." class="form-control input">
+    </div>
+  </div><br>
+
+  <label class="col-md-4 control-label" for="curso">Primário:</label>
+    <div class="col-md-4">
+<input id="curso" name="curso" type="text" placeholder="digite se fez ou não..." class="form-control input">
+    </div>
+  </div><br>
+ 
+  <label class="col-md-4 control-label" for="curso">Curso Técnico:</label>
+    <div class="col-md-4">
+<input id="curso" name="curso" type="text" placeholder="digite aqui..." class="form-control input">
+    </div>
+  </div><br>
+
+  <label class="col-md-4 control-label" for="falculdade">Faculdade:</label>
+    <div class="col-md-4">
+<input id="falcu" name="falculdade" type="text" placeholder="digite aqui..." class="form-control input">
+    </div>
+	 </div>
+  </div><br>
+
+   <label class="col-md-4 control-label" for="info">Outros:</label>
+    <div class="col-md-4">
+<input id="info" name="info" type="text" placeholder="digite aqui..." class="form-control input">
+    </div>
+	 </div>
+  
+   </br> </br>
+   
+    <div class="form-group">
+<b><label class="col-md-4 control-label" for="experiencia">Experiencia Profissional</label></b><br>
+ <label class="col-md-4 control-label" for="prof">Profissão:</label>
+    <div class="col-md-4">
+<input id="ptof" name="prof" type="text" placeholder="Profissão anterior..." class="form-control input">
+    </div>
+  </div><br>
+
+  <label class="col-md-4 control-label" for="empresa">Empresa em que trabalhou:</label>
+    <div class="col-md-4">
+<input id="empresa" name="empresa" type="text" placeholder="Nome da empresa..." class="form-control input">
+    </div>
+  </div><br>
+  <form>
+    Data de entrada: <input type="datetime-local" name="bdaytime">
+</form><br>
+<form>
+    Data de saída: <input type="datetime-local" name="bdaytime">
+</form><br>
+
+<label class="col-md-4 control-label" for="empresa">Interesses:</label>
+    <div class="col-md-4">
+<input id="empresa" name="empresa" type="text" placeholder="digite aqui..." class="form-control input">
+    </div>
+  </div>
+   <div class="form-group">
+  <label class="col-md-4 control-label" for="button"></label>
+    <div class="col-md-4">
+ <BR><BR>
+ <button id="button" name="button" class="btn btn-primary">Concluir e enviar</button>
+  
+    </div>
+  </div>
+  
+
+
+  </fieldset> </form> </body> </html>
