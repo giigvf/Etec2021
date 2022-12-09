@@ -1,0 +1,60 @@
+
+BENEFÍCIOS
+----------------------------------------------------------------------------------------------------
+Já faz um tempo que a automação industrial não utiliza mais 
+sistemas pneumáticos para controle de processos, 
+provando que os sistemas embarcados tomaram conta não somente 
+da vida doméstica, mas também do chão de fábrica.
+
+Seja numa fábrica de automóveis ou em uma plataforma de produção de petróleo, 
+a cada dia o número de computadores embarcados na indústria cresce e traz 
+grandes benefícios, tais como:
+
+Qualidade do Produto Final;
+Velocidade de Produção;
+Segurança Operacional;
+Menores Perdas de Produção;
+Maior Preservação do Meio Ambiente.
+
+Esses benefícios favorecem todos os envolvidos na atividade 
+industrial, Investidores, colaboradores e a própria natureza.
+
+Uma das grandes vantagens é, sem dúvida a capacidade de monitoração 
+remota de processos e máquinas, pois se torna muito mais fácil acompanhar 
+as informações até mesmo pela internet.
+
+CARACTERÍSTICAS
+----------------------------------------------------------------------------------------------------
+O desenvolvedor de sistemas embarcados para automação deve estar atento 
+às particularidades impostas pelo ambiente industrial e suas características, 
+já que existe uma grande diferença na hora de desenvolver equipamentos para o 
+controle de máquinas e processos.
+
+Como são aplicados em finalidades críticas, 
+é desejável que esses sistemas embarcados possuam características como: 
+
+ Programabilidade;
+ Alta confiabilidade;
+ Imunidade a ruídos e interferências;
+ Isolação óptica de entradas e saídas;
+ Detecção de falhas;
+ Alta conectividade;
+ Operação em Tempo Real;
+ Operação em condições ambientais severas;
+ Segurança intrínseca(Proteção em atmosfera explosiva);
+ Redundância.
+
+RESUMO
+--------------------------------------------------------------------------------------------------------------------------------------------------
+Os recentes avanços na tecnologia têm possibilitado o desenvolvimento de 
+sistemas embarcados mais robustos, oportunizando incorporar no processamento 
+industrial técnicas computacionais que requerem determinada capacidade de processamento, 
+bem como integrar padrões de comunicação de dados que visam facilitar o 
+fluxo das informações nos processos de produção. Uma vez que a automação 
+industrial tem como seus principais objetivos centralizar o monitoramento 
+e o controle de processos, bem como atingir a redução de custos de manutenção 
+em um dado sistema industrial, passam a existir inúmeras tecnologias que visam 
+auxiliar neste sentido. Com isso, busca-se descrever neste artigo o emprego 
+de sistemas embarcados na automação e controle de processos industriais, 
+realizando comparativo entre os tipos usuais de sistemas embarcados, 
+avaliando suas características distintas como flexibilidade, desempenho e custo.

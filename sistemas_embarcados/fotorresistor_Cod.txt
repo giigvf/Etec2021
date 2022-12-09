@@ -1,0 +1,20 @@
+
+
+const int PinoLed 13;
+const int PinoLDR A5; 
+
+void setup()
+{
+  pinMode(PinoLed, OUTPUT);
+  pinMode(PinoLDR, INPUT);
+}
+void loop()
+{
+  if (analogRead(PinoLDR) > 600)
+  {
+    digitalWrite (PinoLed, HIGH);
+  }
+  else
+  {
+    digitalWrite (PinoLed, LOW);
+  }
