@@ -1,0 +1,13 @@
+C:\Users\Nilceia\Documents\GIULIAVF\2 ano\Curso\ds\Comissao\Comissao\obj\Debug\netcoreapp3.1\Comissao.csprojAssemblyReference.cache
+C:\Users\Nilceia\Documents\GIULIAVF\2 ano\Curso\ds\Comissao\Comissao\obj\Debug\netcoreapp3.1\Comissao.AssemblyInfoInputs.cache
+C:\Users\Nilceia\Documents\GIULIAVF\2 ano\Curso\ds\Comissao\Comissao\obj\Debug\netcoreapp3.1\Comissao.AssemblyInfo.cs
+C:\Users\Nilceia\Documents\GIULIAVF\2 ano\Curso\ds\Comissao\Comissao\obj\Debug\netcoreapp3.1\Comissao.csproj.CoreCompileInputs.cache
+C:\Users\Nilceia\Documents\GIULIAVF\2 ano\Curso\ds\Comissao\Comissao\bin\Debug\netcoreapp3.1\Comissao.exe
+C:\Users\Nilceia\Documents\GIULIAVF\2 ano\Curso\ds\Comissao\Comissao\bin\Debug\netcoreapp3.1\Comissao.deps.json
+C:\Users\Nilceia\Documents\GIULIAVF\2 ano\Curso\ds\Comissao\Comissao\bin\Debug\netcoreapp3.1\Comissao.runtimeconfig.json
+C:\Users\Nilceia\Documents\GIULIAVF\2 ano\Curso\ds\Comissao\Comissao\bin\Debug\netcoreapp3.1\Comissao.runtimeconfig.dev.json
+C:\Users\Nilceia\Documents\GIULIAVF\2 ano\Curso\ds\Comissao\Comissao\bin\Debug\netcoreapp3.1\Comissao.dll
+C:\Users\Nilceia\Documents\GIULIAVF\2 ano\Curso\ds\Comissao\Comissao\bin\Debug\netcoreapp3.1\Comissao.pdb
+C:\Users\Nilceia\Documents\GIULIAVF\2 ano\Curso\ds\Comissao\Comissao\obj\Debug\netcoreapp3.1\Comissao.dll
+C:\Users\Nilceia\Documents\GIULIAVF\2 ano\Curso\ds\Comissao\Comissao\obj\Debug\netcoreapp3.1\Comissao.pdb
+C:\Users\Nilceia\Documents\GIULIAVF\2 ano\Curso\ds\Comissao\Comissao\obj\Debug\netcoreapp3.1\Comissao.genruntimeconfig.cache
